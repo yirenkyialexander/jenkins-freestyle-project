@@ -1,1 +1,2 @@
-echo 'Hello world!'
+#!/bin/bash
+echo "Hello from Jenkins"
